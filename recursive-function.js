@@ -8,3 +8,6 @@ function reverseString(str) {
 }
 
 console.log(reverseString("reallylongstring"));
+console.log(reverseString("gnirts"));
+console.log(reverseString("a"));
+console.log(reverseString(""));
